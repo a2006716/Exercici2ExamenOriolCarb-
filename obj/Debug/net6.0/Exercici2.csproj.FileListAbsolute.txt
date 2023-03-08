@@ -1,0 +1,15 @@
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\bin\Debug\net6.0\Exercici2.exe
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\bin\Debug\net6.0\Exercici2.deps.json
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\bin\Debug\net6.0\Exercici2.runtimeconfig.json
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\bin\Debug\net6.0\Exercici2.dll
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\bin\Debug\net6.0\Exercici2.pdb
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.csproj.AssemblyReference.cache
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.AssemblyInfoInputs.cache
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.AssemblyInfo.cs
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.csproj.CoreCompileInputs.cache
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.dll
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\refint\Exercici2.dll
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.pdb
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\Exercici2.genruntimeconfig.cache
+C:\Users\Uri\Desktop\Examen M09 - Oriol Carbó\Exercici2\obj\Debug\net6.0\ref\Exercici2.dll
