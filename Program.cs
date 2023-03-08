@@ -43,7 +43,7 @@ internal class Program
                     msg = exercici2.ObtenirDirectori();
                 }
 
-                else if (url.StartsWith("/recursiu"))
+                else if (url.StartsWith("/llistarDirectoriRecursiu"))
                 {
                     List<String> llista = exercici2.ObtenirDirectoriRecursiu(directori);
                     foreach(string s in llista)
